@@ -1,0 +1,6 @@
+.header-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+}
